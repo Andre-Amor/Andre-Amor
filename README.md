@@ -8,11 +8,19 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 *  You can contact me at [ramorSTEM2022@gmail.com](mailto:ramorSTEM2022@gmail.com)
 *  Open to collaborating on interesting & challenging projects
 
-### Skills
+### Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,rust,ts,py,mysql&perline=7" alt="Java, C++, C#, Rust, TypeScript, Python, and MySQL" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,rust,py" alt="Java, C++, C#, Rust, and Python" />
+  </a>
+</p>
+
+### Technologies
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,azure,docker,mysql,neovim" alt="Kubernetes, AWS, Azure, Docker, MySQL, and Neovim" />
   </a>
 </p>
 
@@ -21,6 +29,6 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,stackoverflow,twitter&perline=4" alt="Instagram, LinkedIn, Stack Overflow, and Twitter" />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter" alt="Instagram, LinkedIn, and Twitter" />
   </a>
 </p>
