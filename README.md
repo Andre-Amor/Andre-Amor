@@ -12,7 +12,7 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,cs,rust,ts,py,mysql&theme=light&perline=7" alt="Java, C++, C#, Rust, TypeScript, Python, and MySQL" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,cs,rust,ts,py,mysql&perline=7" alt="Java, C++, C#, Rust, TypeScript, Python, and MySQL" />
   </a>
 </p>
 
@@ -21,6 +21,6 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,linkedin,stackoverflow,twitter&theme=light&perline=4" alt="Instagram, LinkedIn, Stack Overflow, and Twitter" />
+    <img src="https://skillicons.dev/icons?i=instagram,linkedin,stackoverflow,twitter&perline=4" alt="Instagram, LinkedIn, Stack Overflow, and Twitter" />
   </a>
 </p>
