@@ -5,7 +5,7 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 *  Based in San Francisco, CA
 *  UMD Alumni
    * Double Degree in Computer Science and Applied Mathematics, Minor in Computational Finance
-*  You can contact me at [ramorSTEM2022@gmail.com](mailto:ramorSTEM2022@gmail.com)
+*  You can contact me at [me@andreamor.com](mailto:me@andreamor.com)
 *  Open to collaborating on interesting & challenging projects
 
 ### Languages
