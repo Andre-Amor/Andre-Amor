@@ -35,5 +35,5 @@ My name is Andre Amor (Rodz Andrie Amor), I'm a Software Engineer at Netflix.
 <p align="left">
   <a href="http://www.instagram.com/andrie.amor" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/andre-amor" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>
-  <a href="https://www.twitter.com/RodzAmor" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" /></a>
+  <a href="https://x.com/andrieamor" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" /></a>
 </p>
